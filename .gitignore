@@ -1,0 +1,9 @@
+node_modules
+dist
+
+/src/assets/_pagefind/
+/outdoors-data/
+/public/
+
+.vscode/
+.idea/
